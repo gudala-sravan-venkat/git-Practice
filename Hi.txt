@@ -1,1 +1,2 @@
 newBranch's first text file
+making some changes for practicing "git commit -am <msg>"
