@@ -1,0 +1,5 @@
+First text file in branchPractice
+
+I added this line using Notepad++
+The above criteria applies for this line too.
+
