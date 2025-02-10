@@ -1,1 +1,4 @@
+To practice rebase, committing from master branch on 10th.
+To practice rebase, committing from master branch on 10th
+This should produce a conflict.
 To practice rebase, committing from master branch on 10th
